@@ -9,7 +9,7 @@ img{
     height: 100%;
 }
 body{
-    background-image: url("/1-imh.jpg");
+    background-image: url("1-imh.jpg");
     background-color: #cccccc;
 }
 .font-aw{

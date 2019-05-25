@@ -27,8 +27,8 @@ p{
     font-size: 20px;
 }
 .cpp{
-    width: 70%;
-    height: 70%;
+    width: 60%;
+    height: 60%;
 }
 .cppp{
     width: 50%;
@@ -39,4 +39,15 @@ b{
 }
 .color-icon{
     color: white;
+}
+
+@media only screen and (max-width: 768px) {
+    .cpp{
+        width: 30%;
+        height: 30%;
+    }    
+    .cppp{
+        width: 20%;
+        height: 20%;
+    }
 }
